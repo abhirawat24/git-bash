@@ -10,3 +10,5 @@ $ git cheakout main, etc.
 $ git status
 $ git push
 $ git pull
+$ git merge
+$ git diff
